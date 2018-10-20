@@ -7276,3 +7276,8 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+.honors-date{
+  text-align: -webkit-right;
+  font-weight: bold;
+}
